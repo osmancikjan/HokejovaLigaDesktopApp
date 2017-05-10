@@ -1,0 +1,12 @@
+C:\Users\Johnny\OneDrive\Visual Studio 2017 - projects\HokejovaLigaORM\HokejovaLigaORM\bin\Debug\HokejovaLigaORM.exe.config
+C:\Users\Johnny\OneDrive\Visual Studio 2017 - projects\HokejovaLigaORM\HokejovaLigaORM\bin\Debug\HokejovaLigaORM.exe
+C:\Users\Johnny\OneDrive\Visual Studio 2017 - projects\HokejovaLigaORM\HokejovaLigaORM\bin\Debug\HokejovaLigaORM.pdb
+C:\Users\Johnny\OneDrive\Visual Studio 2017 - projects\HokejovaLigaORM\HokejovaLigaORM\obj\Debug\HokejovaLigaORM.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\OneDrive\Visual Studio 2017 - projects\HokejovaLigaORM\HokejovaLigaORM\obj\Debug\HokejovaLigaORM.Forms.Menu.resources
+C:\Users\Johnny\OneDrive\Visual Studio 2017 - projects\HokejovaLigaORM\HokejovaLigaORM\obj\Debug\HokejovaLigaORM.csproj.GenerateResource.Cache
+C:\Users\Johnny\OneDrive\Visual Studio 2017 - projects\HokejovaLigaORM\HokejovaLigaORM\obj\Debug\HokejovaLigaORM.exe
+C:\Users\Johnny\OneDrive\Visual Studio 2017 - projects\HokejovaLigaORM\HokejovaLigaORM\obj\Debug\HokejovaLigaORM.pdb
+C:\Users\Johnny\OneDrive\Visual Studio 2017 - projects\HokejovaLigaORM\HokejovaLigaORM\obj\Debug\HokejovaLigaORM.Forms.VlozeniKontraktu.resources
+C:\Users\Johnny\OneDrive\Visual Studio 2017 - projects\HokejovaLigaORM\HokejovaLigaORM\obj\Debug\HokejovaLigaORM.Properties.Resources.resources
+C:\Users\Johnny\OneDrive\Visual Studio 2017 - projects\HokejovaLigaORM\HokejovaLigaORM\obj\Debug\HokejovaLigaORM.Forms.SeznamZapasu.resources
+C:\Users\Johnny\OneDrive\Visual Studio 2017 - projects\HokejovaLigaORM\HokejovaLigaORM\obj\Debug\HokejovaLigaORM.Forms.DetailZapasu.resources
